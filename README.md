@@ -26,3 +26,12 @@
  - 법령으로는 PM이용도로를 차도나 자전거 전용도로로 규정하고 있으나 실제로는 보도를 많이 이용한다. 
      * 그 이유는 차도에서는 차량과의 속도의 차이로 무서움 겪는다는 의견이 있었음. 
  - 보행자와 운전자의 전용도로 설치위치에서 보행자는 차도에,운전자는 보도에 설치해야 한다는 의견 차이가 발생하는 것을 확인할 수 있었음.
+
+
+
+#### 6) 참고문헌 
+- https://www.gyotongn.com/news/articleView.html?idxno=329706
+- https://www.yna.co.kr/view/AKR20211202095500003
+- https://www.tnews.kr/news/articleView.html?idxno=96669
+- https://mediahub.seoul.go.kr/archives/2000828
+- P 새로운 교통수단 이용에 대한 안전대책 연구 - 개인형 이동수단(Personal Mobility)을 중심으로 명묘희 외 1인(도로교통공단 교통과학연구원)
