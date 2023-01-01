@@ -30,6 +30,11 @@
 - PM 이용자, 보행자, 운전자의 PM과 관련된 인식의 차이가 있음을 확인. 
 - 보행자와 운전자의 PM전용도로 설치위치를 묻는 문항에서 보행자는 차도에, 운전자는 보도에 설치해야 한다는 의견 차이가 발생하는 것을 확인. 
  - 법령으로는 PM 이용도로를 차도나 자전거 전용도로로 제한하고 있으나 실제로는 이용 인프라의 부족으로 보도를 많이 이용.
+ ![image](https://user-images.githubusercontent.com/120262018/210171833-c5c96093-f2f6-4901-bbde-fcf8ca092bbf.png)
+
+ 
+ 
+ 
  
 #### 7) 참고문헌 
 - https://www.gyotongn.com/news/articleView.html?idxno=329706
